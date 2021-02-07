@@ -1,4 +1,4 @@
-# Techniqued'enquéte
+# Technique d'enquéte
 Dans le cadre ce cours, j'ai réalisé deux projets.Grace à cours, 
 j'ai aquis des compétences en la technique de collecte des données par 
 sondage en allant sur le terrain ou en envoyant le questionnaire en ligne.
